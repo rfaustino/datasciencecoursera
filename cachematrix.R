@@ -1,3 +1,4 @@
+## 17/05/2014
 ## The next two functions will allow to cache a matrix inversion computation and return 
 ## the cache values if the computation was already been done.
 ## The functions are "makeCacheMatrix" and "cacheSolve"
